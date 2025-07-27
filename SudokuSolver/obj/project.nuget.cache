@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Hz4o+Gvf5U=",
+  "success": true,
+  "projectFilePath": "C:\\VSProjects\\Other\\Apps\\Sudoku-Solver\\SudokuSolver\\SudokuSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

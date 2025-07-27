@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DlIxhfylP44xzDvwpbXbAF/fePSzaXqG16V9tGzV9Us=",
+  "Source": "SudokuSolver",
+  "BasePath": "_content/SudokuSolver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
