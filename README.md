@@ -9,6 +9,7 @@ This is a full-stack Sudoku Solver application. The project consists of two main
 This project is a web API built with ASP.NET Core that provides an endpoint to solve 9x9 Sudoku puzzles.
 
 Prerequisites
+
 Before you begin, ensure you have the following software installed on your machine:
 
 .NET 9 SDK: This is required to build and run the project.
