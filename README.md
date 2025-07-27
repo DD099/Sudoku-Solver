@@ -1,4 +1,5 @@
 Full-Stack Sudoku Solver
+
 This is a full-stack Sudoku Solver application. The project consists of two main parts:
 
 1. Back-End API: The solver logic is written in C# and exposed as a web API using ASP.NET Core. It handles the computation for solving the puzzles.
